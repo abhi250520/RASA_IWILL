@@ -1,0 +1,9 @@
+version: "2.0"
+
+rules:
+
+#- rule: start demo bye
+#  steps:
+# - intent: bye
+#  - action: utter_bye
+ 
